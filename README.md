@@ -34,13 +34,9 @@ Pillow is used for image conversion
 
 
 ```
-git clone https://github.com/matthewh806/killing_me_softly_with_his_dsp
-cd code/experiments/image_manipulation
+git clone https://github.com/matthewh806/soxmosh
+cd soxmosh
 ```
-
-Note: This is part of a monolithic dumping ground repository, so you're going to get a lot 
-of (probably irrelevant) crap along with it.
-
 
 ## Running
 
